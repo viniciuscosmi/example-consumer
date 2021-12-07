@@ -42,7 +42,7 @@ When we call "can-i-deploy" the cross-contract validation process kicks off on P
 
 When you run the CI pipeline (see below for doing this), the pipeline should perform the following activities (simplified):
 
-![Consumer Pipeline](docs/consumer-pipeline.png "Consumer Pipeline")
+![Consumer Pipeline](docs/consumer-pipeline.png "Consumer Pipeline") -
 
 ### Pre-requisites
 
